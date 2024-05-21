@@ -33,6 +33,7 @@ export default () => {
   <Header/>
     </div>
 
+
     <AnimationRevealPage>
       <Hero
         heading={<>Hi there! <span className="wave">👋🏻</span> <HighlightedText>I'm Coss ASMR.</HighlightedText></>}
