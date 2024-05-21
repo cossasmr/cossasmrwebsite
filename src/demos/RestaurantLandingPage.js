@@ -32,6 +32,7 @@ export default () => {
     <div className="header-d" style={{ paddingTop:'8px',paddingInline:'2rem', position:'sticky',width:'100%', top:'0px', zIndex:'300', backgroundColor:'white'}}>
   <Header/>
     </div>
+
     <AnimationRevealPage>
       <Hero
         heading={<>Hi there! <span className="wave">👋🏻</span> <HighlightedText>I'm Coss ASMR.</HighlightedText></>}
