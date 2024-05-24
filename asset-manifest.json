@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cossasmrwebsite/static/css/main.cc5fcaee.css",
-    "main.js": "/cossasmrwebsite/static/js/main.7756b613.js",
+    "main.js": "/cossasmrwebsite/static/js/main.5164971b.js",
     "static/media/MainLandingPageHero.png": "/cossasmrwebsite/static/media/MainLandingPageHero.30b380787ef7adb09eb6.png",
     "static/media/AgencyLandingPage.jpeg": "/cossasmrwebsite/static/media/AgencyLandingPage.717f8ed6737d6161b153.jpeg",
     "static/media/HotelTravelLandingPage.jpeg": "/cossasmrwebsite/static/media/HotelTravelLandingPage.7cba2215c02e6e82fc39.jpeg",
@@ -97,10 +97,10 @@
     "static/media/arrow-right-3-icon.svg": "/cossasmrwebsite/static/media/arrow-right-3-icon.d415f77e8dc81ff77fdb53c0ee2da771.svg",
     "static/media/handle-icon.svg": "/cossasmrwebsite/static/media/handle-icon.75eb6395a03cd55833f64fd24df39ff5.svg",
     "main.cc5fcaee.css.map": "/cossasmrwebsite/static/css/main.cc5fcaee.css.map",
-    "main.7756b613.js.map": "/cossasmrwebsite/static/js/main.7756b613.js.map"
+    "main.5164971b.js.map": "/cossasmrwebsite/static/js/main.5164971b.js.map"
   },
   "entrypoints": [
     "static/css/main.cc5fcaee.css",
-    "static/js/main.7756b613.js"
+    "static/js/main.5164971b.js"
   ]
 }
